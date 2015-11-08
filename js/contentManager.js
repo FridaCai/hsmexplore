@@ -71,12 +71,8 @@ var contentManager = {
     init:function(data, sceneId){
         this.data = data;
 
-        //local test.
         this.modelUrl = "content/#sceneId/obj/#seekId.obj".replace("#sceneId", sceneId).replace("#seekId", data.productId);
         this.textureUrl = "content/#sceneId/obj/#seekId.png".replace("#sceneId", sceneId).replace("#seekId", data.productId);
-
-        //this.modelUrl = "http://www.alpha.homestyler.com/service/getcontent/http://hsm-prod-assets.s3.amazonaws.com/i/#seekId/model-fc.gz",
-        //this.textureUrl = "http://www.alpha.homestyler.com/service/getcontent/http://hsm-prod-assets.s3.amazonaws.com/i/#seekId/model-fc.png";
     }
 }
 
