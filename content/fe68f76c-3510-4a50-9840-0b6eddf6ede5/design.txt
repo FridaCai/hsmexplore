@@ -1,0 +1,247 @@
+{
+  "o": "686874af-af63-4d66-896c-0e348a5222cc",
+  "cameraXFOV": 66.00001,
+  "cube": [
+    {
+      "x": -2.353328,
+      "y": 3.404226,
+      "z": -10.5317
+    },
+    {
+      "x": 2.329999,
+      "y": 3.404226,
+      "z": -10.5317
+    },
+    {
+      "x": 2.329999,
+      "y": 0,
+      "z": -10.5317
+    },
+    {
+      "x": -2.353328,
+      "y": 0,
+      "z": -10.5317
+    }
+  ],
+  "cameraYFOV": 40.13367,
+  "sceneName": "green bedroom",
+  "scaleLock": false,
+  "localUniqueID": "0F6340CD-4549-4277-B19A-6C1FA6698E90",
+  "models": [
+    {
+      "scale": 0.8283004,
+      "x": -0.4836149,
+      "productId": "1ebc7ae7-a034-495a-9d85-7069137b02a4",
+      "y": -0.1,
+      "isLocked": false,
+      "yRot": -0.8236796,
+      "z": -6.966394
+    },
+    {
+      "scale": 1.054235,
+      "x": -1.085086,
+      "productId": "71aa0895-4c6e-43ec-98ba-7d3d65c9fe1a",
+      "y": -0.02769884,
+      "isLocked": false,
+      "yRot": 2.040576,
+      "z": -4.331935
+    },
+    {
+      "scale": 1.32169,
+      "x": -2.120739,
+      "productId": "0893963d-7353-4923-bf74-4724c5273a9b",
+      "y": -0.02518684,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -10.16465
+    },
+    {
+      "scale": 1.32169,
+      "x": 2.110071,
+      "productId": "c401e720-ae80-4918-b20e-328a320dd0de",
+      "y": -0.02262882,
+      "isLocked": false,
+      "yRot": -1.549618,
+      "z": -6.175059
+    },
+    {
+      "scale": 1.32169,
+      "x": 0.7080772,
+      "productId": "9ca8b78a-c53f-4771-bceb-986029e1ec36",
+      "y": -0.004384593,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -10.22991
+    },
+    {
+      "scale": 1.32169,
+      "x": -1.712181,
+      "productId": "3db32105-a551-4da9-b1a3-894cb6aba563",
+      "y": -0.001152404,
+      "isLocked": false,
+      "yRot": 1.976526,
+      "z": -5.360943
+    },
+    {
+      "scale": 1.32169,
+      "x": -0.6616009,
+      "productId": "796de54a-42e5-4da3-ade4-beffcec655b3",
+      "y": -0.0002566062,
+      "isLocked": false,
+      "yRot": 1.612396,
+      "z": -8.685786
+    },
+    {
+      "scale": 1.32169,
+      "x": -1.036919,
+      "productId": "577d04a1-c088-44b2-ac17-b53d83830f7c",
+      "y": 0.515625,
+      "isLocked": false,
+      "yRot": 2.2829,
+      "z": -4.116778
+    },
+    {
+      "scale": 1.32169,
+      "x": -0.9607741,
+      "productId": "a359ea74-ebb7-4a7f-ad5f-6c6f1e2fb86f",
+      "y": 0.5546875,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -4.126537
+    },
+    {
+      "scale": 1.32169,
+      "x": -1.060603,
+      "productId": "19db2c4c-d93c-4c97-adbf-84dc918080e6",
+      "y": 0.5572916,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -4.045322
+    },
+    {
+      "scale": 1.562662,
+      "x": -0.1819725,
+      "productId": "7fb32b8f-6401-4ce2-be1f-aa3e2023fac4",
+      "y": 0.7421875,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -7.894055
+    },
+    {
+      "scale": 1.483707,
+      "x": -0.8946735,
+      "productId": "7fb32b8f-6401-4ce2-be1f-aa3e2023fac4",
+      "y": 0.7877604,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -7.551802
+    },
+    {
+      "scale": 0.7979983,
+      "x": -0.1834847,
+      "productId": "75ff250a-9c49-46da-b326-0eeeaefa4824",
+      "y": 0.8359375,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -6.821539
+    },
+    {
+      "scale": 0.746902,
+      "x": -0.8448217,
+      "productId": "75ff250a-9c49-46da-b326-0eeeaefa4824",
+      "y": 0.8450521,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -6.872401
+    },
+    {
+      "scale": 1.201035,
+      "x": 0.6719813,
+      "productId": "94eb25f4-d8a2-4373-8742-4cbc04d908c5",
+      "y": 0.8723959,
+      "isLocked": false,
+      "yRot": 2.973694,
+      "z": -9.946791
+    },
+    {
+      "scale": 1.32169,
+      "x": 0.6597458,
+      "productId": "03845c71-663f-44b0-90d3-d7dfd17dd123",
+      "y": 1.028646,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -9.557443
+    },
+    {
+      "scale": 2.251755,
+      "x": -0.7605535,
+      "productId": "6f1275ec-c225-44d5-93cc-b5cc0fc61838",
+      "y": 1.408229,
+      "isLocked": false,
+      "yRot": -0.1146921,
+      "z": -10.5317
+    },
+    {
+      "scale": 0.5327084,
+      "x": 2.170872,
+      "productId": "c734c2db-c7b4-45a2-8b9a-08bd168cd1ee",
+      "y": 1.411458,
+      "isLocked": false,
+      "yRot": 0,
+      "z": -6.863008
+    },
+    {
+      "scale": 1.655776,
+      "x": 2.329999,
+      "productId": "ded4158e-7df7-42db-be9a-1c515a04608b",
+      "y": 2.06588,
+      "isLocked": false,
+      "yRot": -1.570796,
+      "z": -5.920929
+    },
+    {
+      "scale": 2.411662,
+      "x": -2.353328,
+      "productId": "2f17f0c4-cd37-4101-9a6c-bf8d9db1e079",
+      "y": 2.119037,
+      "isLocked": false,
+      "yRot": 1.570796,
+      "z": -5.556949
+    },
+    {
+      "scale": 3.119358,
+      "x": -0.08420359,
+      "productId": "053f5647-55de-4ea5-b969-da99c2d0e4dd",
+      "y": 3.304029,
+      "isLocked": false,
+      "yRot": -0.6142252,
+      "z": -8.170768
+    }
+  ],
+  "version": "1.1",
+  "timeStamp": "06/10/2013 07:55",
+  "matrix": [
+    -4.371139e-8,
+    -1,
+    0,
+    0,
+    1,
+    -4.371139e-8,
+    0,
+    0,
+    0,
+    0,
+    0.9999999,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "imageSize": {
+    "Height": 576,
+    "Width": 1024
+  },
+  "globalScale": 0.7566068,
+  "orientation": 0
+}

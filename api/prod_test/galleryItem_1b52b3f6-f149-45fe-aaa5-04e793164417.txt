@@ -1,0 +1,407 @@
+http://api.homestyler.com/hsmweb/api/gallery/getitem?dt=ios&itm=1b52b3f6-f149-45fe-aaa5-04e793164417&l=en&tp=1&v=1.3
+
+{
+  "id": "1b52b3f6-f149-45fe-aaa5-04e793164417",
+  "content": "{\"cube\":[{\"x\":-2.016672,\"y\":3.178908,\"z\":-1.814375},{\"x\":1.970519,\"y\":3.178908,\"z\":-1.829987},{\"x\":1.970519,\"y\":0.2988978,\"z\":-1.829987},{\"x\":-2.016672,\"y\":0.2988978,\"z\":-1.814375}],\"cameraXFOV\":94.08867,\"camera_rotation_aligned\":true,\"cameraYFOV\":115.9429,\"bgBrightness\":0.6461378,\"scaleLock\":false,\"sceneName\":\"Dine in style\",\"localUniqueID\":\"A9C190AB-6E7E-4568-BBD0-A4CA57F186B9\",\"version\":\"1.2\",\"models\":[{\"scale\":15.20869,\"x\":-19.51268,\"productId\":\"23685475-4BBD-4243-AFE1-25F6BFE34D5C\",\"y\":3.081573,\"isLocked\":false,\"yRot\":-3.664606,\"z\":-18.76087,\"brightness\":0.5},{\"scale\":5.761747,\"x\":-8.329691,\"productId\":\"23685475-4BBD-4243-AFE1-25F6BFE34D5C\",\"y\":0.2731627,\"isLocked\":false,\"yRot\":-3.703467,\"z\":-9.3532,\"brightness\":0.5247525},{\"scale\":1.889498,\"x\":2.700708,\"productId\":\"b9dcb1de-42a8-41e1-acc5-0919d1bcedbd\",\"y\":0,\"isLocked\":false,\"yRot\":-0.01570398,\"z\":-3.332508,\"brightness\":1.5},{\"scale\":1.637045,\"x\":0.7635946,\"productId\":\"7976bac6-1545-4984-842d-7bec39590204\",\"y\":0.4281384,\"isLocked\":false,\"yRot\":0.06100458,\"z\":-3.272827,\"brightness\":1},{\"scale\":1.889498,\"x\":2.826152,\"productId\":\"b9dcb1de-42a8-41e1-acc5-0919d1bcedbd\",\"y\":0,\"isLocked\":false,\"yRot\":0.01305912,\"z\":-2.992711,\"brightness\":1.5},{\"scale\":1.521632,\"x\":-1.067817,\"productId\":\"6475f0d3-973b-405f-892e-3220a6c9c0be\",\"y\":0.4518762,\"isLocked\":false,\"yRot\":0.3974987,\"z\":-2.976684,\"brightness\":0.5},{\"scale\":2.161693,\"x\":-0.2077376,\"productId\":\"19db2c4c-d93c-4c97-adbf-84dc918080e6\",\"y\":0.5237889,\"isLocked\":false,\"yRot\":-0.003906253,\"z\":-2.848745,\"brightness\":1},{\"scale\":1.645334,\"x\":0.07168532,\"productId\":\"c47b1be1-1bb7-4d7f-ab8e-5b33cf343b5a\",\"y\":0.5186013,\"isLocked\":false,\"yRot\":-0.003906253,\"z\":-2.844161,\"brightness\":1},{\"scale\":1.645334,\"x\":-0.3786882,\"productId\":\"c47b1be1-1bb7-4d7f-ab8e-5b33cf343b5a\",\"y\":0.5120046,\"isLocked\":false,\"yRot\":-0.003906253,\"z\":-2.772696,\"brightness\":1},{\"scale\":1.272069,\"x\":-0.1530445,\"productId\":\"64c836d0-eb7a-4d0a-a928-6a59c78fcb64\",\"y\":0,\"isLocked\":false,\"yRot\":-19.74163,\"z\":-2.766858,\"brightness\":1},{\"scale\":1.258567,\"x\":0.7772579,\"productId\":\"6475f0d3-973b-405f-892e-3220a6c9c0be\",\"y\":0.4731785,\"isLocked\":false,\"yRot\":-0.5935541,\"z\":-2.567717,\"brightness\":0.5},{\"scale\":1.285007,\"x\":-1.05085,\"productId\":\"7976bac6-1545-4984-842d-7bec39590204\",\"y\":0.4817037,\"isLocked\":false,\"yRot\":-0.003906253,\"z\":-2.479107,\"brightness\":1},{\"scale\":1.155212,\"x\":-1.529103,\"productId\":\"23746b75-d8db-48a7-a6ad-ee25c6fd0cc1\",\"y\":0,\"isLocked\":false,\"yRot\":0.08522727,\"z\":-2.396881,\"brightness\":0.5},{\"scale\":1.155212,\"x\":1.380897,\"productId\":\"23746b75-d8db-48a7-a6ad-ee25c6fd0cc1\",\"y\":0,\"isLocked\":false,\"yRot\":-21.84803,\"z\":-2.33089,\"brightness\":0.5},{\"scale\":1.195243,\"x\":3.978075e-05,\"productId\":\"88540d79-607f-4f19-b5da-74587603ef95\",\"y\":-0.1,\"isLocked\":false,\"yRot\":-0.003906253,\"z\":-2.282389,\"brightness\":1},{\"scale\":1.03055,\"x\":-0.06600061,\"productId\":\"36fa1298-eff7-4cc8-82d2-6cbb254b1eb1\",\"y\":-0.1,\"isLocked\":false,\"yRot\":-0.02905526,\"z\":-2.249942,\"brightness\":1},{\"scale\":1.004912,\"x\":0.6732861,\"productId\":\"e959ca7f-fd12-4a36-a6e6-0f9c6b80b73f\",\"y\":0,\"isLocked\":false,\"yRot\":-0.01511442,\"z\":-2.192188,\"brightness\":1},{\"scale\":1.004912,\"x\":-0.8484326,\"productId\":\"e959ca7f-fd12-4a36-a6e6-0f9c6b80b73f\",\"y\":0,\"isLocked\":false,\"yRot\":1.576031,\"z\":-2.18789,\"brightness\":1},{\"scale\":0.724762,\"x\":-2.131451,\"productId\":\"9eb36228-f5cd-4e65-a8ca-8baf179e572e\",\"y\":0.4393633,\"isLocked\":false,\"yRot\":1.012406,\"z\":-2.177308,\"brightness\":0.5},{\"scale\":1.251676,\"x\":2.587294,\"productId\":\"a340ce5d-d5f6-42cb-bf47-5ec7b44ad263\",\"y\":0,\"isLocked\":false,\"yRot\":-2.032272,\"z\":-2.168418,\"brightness\":0.5},{\"scale\":1.004912,\"x\":-2.30246,\"productId\":\"9fc3fb48-c045-48f7-8087-f526c8ee38f5\",\"y\":0,\"isLocked\":false,\"yRot\":-11.58682,\"z\":-2.122005,\"brightness\":0.5},{\"scale\":0.7044761,\"x\":-2.201264,\"productId\":\"0e7d6ce0-5e4d-45a9-b4a5-8842ae59bd54\",\"y\":0.6928862,\"isLocked\":false,\"yRot\":-1.754498,\"z\":-2.103292,\"brightness\":0.5},{\"scale\":0.8154555,\"x\":0.6231571,\"productId\":\"51334e68-0a65-4117-829a-470aac79711a\",\"y\":0.1754176,\"isLocked\":false,\"yRot\":-0.009171634,\"z\":-2.035581,\"brightness\":0.7722772},{\"scale\":1.15087,\"x\":-0.06921627,\"productId\":\"03187481-dbb1-4697-84d4-ea963827c1ea\",\"y\":0,\"isLocked\":false,\"yRot\":4.307362,\"z\":-2.011291,\"brightness\":1},{\"scale\":1.313338,\"x\":-0.01458161,\"productId\":\"577d04a1-c088-44b2-ac17-b53d83830f7c\",\"y\":0.3869454,\"isLocked\":false,\"yRot\":-1.73977,\"z\":-1.95015,\"brightness\":1},{\"scale\":1.207799,\"x\":-0.1545009,\"productId\":\"23dcc9e4-2581-4093-9b39-e450424b6d3a\",\"y\":0.4237172,\"isLocked\":false,\"yRot\":-1.666589,\"z\":-1.905844,\"brightness\":1},{\"scale\":0.8475587,\"x\":-1.041281,\"productId\":\"9f659d0c-ff9a-4c47-b0f4-f3dc6b3112f6\",\"y\":0.2298221,\"isLocked\":false,\"yRot\":0.02652106,\"z\":-1.846527,\"brightness\":0.6683168},{\"scale\":1.004912,\"x\":-0.03477794,\"productId\":\"4601315e-7571-4355-837b-4f360c01a992\",\"y\":1.527953,\"isLocked\":false,\"yRot\":0.003906253,\"z\":-1.822135,\"brightness\":1.5},{\"scale\":1.004912,\"x\":1.608768,\"productId\":\"9023c3e6-7d5f-4b62-9476-3d309d3856b0\",\"y\":0.5352191,\"isLocked\":false,\"yRot\":-1.960434,\"z\":-1.536726,\"brightness\":1}],\"timeStamp\":\"04\\/01\\/2015 03:36\",\"matrix\":[0.007537044,0.999958,0.005144,0,0.999937,-0.007494044,-0.008395999,0,-0.008357,0.005206001,-0.999952,0,0,0,0,1],\"imageSize\":{\"Height\":1024,\"Width\":688},\"globalScale\":0.9951116,\"orientation\":0}",
+  "title": "Dine in style",
+  "images": [
+    "http://hsm-prod-designs.S3.amazonaws.com/dcxiYsfKNg/i_qXZoSStcU0eWDw5pPPbT7A.jpg",
+    "http://hsm-prod-designs.S3.amazonaws.com/dcxiYsfKNg/b_68uHq-y1nkSvkcBwPnbVLQ.jpg",
+    "http://hsm-prod-designs.S3.amazonaws.com/dcxiYsfKNg/f_CFHHzH6eS06utuIxHVG7eg.jpg"
+  ],
+  "mask": "",
+  "d": "Not to haste, but to linger......enjoying a great view",
+  "pro": false,
+  "uid": "MQ8BCLTHZP3400U",
+  "uthumb": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg",
+  "uname": "Melinda Gabales",
+  "lk": 168,
+  "cmt": 29,
+  "pcnt": 22,
+  "rt": 20,
+  "items": [
+    {
+      "u": "03187481-dbb1-4697-84d4-ea963827c1ea",
+      "s": 1384417465,
+      "z": 200,
+      "n": "Ovo",
+      "v": "arketipo",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/38/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "arketipo",
+          "u": "http://www.arketipo.com/en/products/side-tables-34/59B1E9E9-92F7-4D53-89D3-E38F3B496370/ovo#arketipo",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/03187481-dbb1-4697-84d4-ea963827c1ea/iso.jpg"
+      ]
+    },
+    {
+      "u": "64c836d0-eb7a-4d0a-a928-6a59c78fcb64",
+      "s": 1382471891,
+      "z": 200,
+      "n": "Islands Low sofa side table",
+      "v": "Calligaris ",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/109/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Calligaris ",
+          "u": "http://www.calligaris.biz/catalogue/living/coffee--end-tables/ISLANDS/CS-5061-C",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/64c836d0-eb7a-4d0a-a928-6a59c78fcb64/iso.jpg"
+      ]
+    },
+    {
+      "u": "a340ce5d-d5f6-42cb-bf47-5ec7b44ad263",
+      "s": 1361447659,
+      "z": 200,
+      "n": "Pink-Tile-and-Concrete-Fireplace",
+      "v": "Ceasarstone",
+      "vu": "https://d3t5p29y393euf.cloudfront.net/vendorlogos/4/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "A.O. Smith",
+          "u": "http://www.ikea.com",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/a340ce5d-d5f6-42cb-bf47-5ec7b44ad263/iso.jpg"
+      ]
+    },
+    {
+      "u": "b9dcb1de-42a8-41e1-acc5-0919d1bcedbd",
+      "s": 1407763585,
+      "z": 200,
+      "n": "Gridscape Series Fixed Panel",
+      "v": "Coastal Industries",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/210/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Coastal Industries",
+          "u": "https://23bf74.campgn4.com/GRIDSCAPE_Landing_PG01",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/b9dcb1de-42a8-41e1-acc5-0919d1bcedbd/iso0.jpg"
+      ]
+    },
+    {
+      "u": "23685475-4BBD-4243-AFE1-25F6BFE34D5C",
+      "s": 1361810783,
+      "z": 300,
+      "n": "Plant",
+      "v": "Committed Photography",
+      "vu": "https://d3t5p29y393euf.cloudfront.net/vendorlogos/6/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "A.O. Smith",
+          "u": "http://www.ikea.com",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/23685475-4BBD-4243-AFE1-25F6BFE34D5C/iso.jpg"
+      ]
+    },
+    {
+      "u": "0e7d6ce0-5e4d-45a9-b4a5-8842ae59bd54",
+      "s": 1388433611,
+      "z": 300,
+      "n": "Macchinetta",
+      "v": "Ethan Allen",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/27/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Ethan Allen",
+          "u": "http://ethanallen.com/on/demandware.store/Sites-ethanallen-us-Site/en_US/Rooms-Start?cgid=vintage-livingroom-17",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/0e7d6ce0-5e4d-45a9-b4a5-8842ae59bd54/iso0.jpg"
+      ]
+    },
+    {
+      "u": "23746b75-d8db-48a7-a6ad-ee25c6fd0cc1",
+      "s": 1376337353,
+      "z": 200,
+      "n": "FLORA",
+      "v": "FontanaArte",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/105/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "FontanaArte",
+          "u": "http://www.fontanaarte.com/lighting/floor/flora-floor/",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/23746b75-d8db-48a7-a6ad-ee25c6fd0cc1/iso.jpg"
+      ]
+    },
+    {
+      "u": "e959ca7f-fd12-4a36-a6e6-0f9c6b80b73f",
+      "s": 1382524964,
+      "z": 200,
+      "n": "Gant",
+      "v": "Poliform",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/110/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Poliform",
+          "u": "http://www.poliformusa.com/poliform/armchairs/gant_1_31326_13_1.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/e959ca7f-fd12-4a36-a6e6-0f9c6b80b73f/iso.jpg"
+      ]
+    },
+    {
+      "u": "9fc3fb48-c045-48f7-8087-f526c8ee38f5",
+      "s": 1387545169,
+      "z": 200,
+      "n": "Oscar",
+      "v": "porada",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/136/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "porada",
+          "u": "http://www.porada.it/en/shoe-racks-occasionals/oscar_en_0_1_422.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/9fc3fb48-c045-48f7-8087-f526c8ee38f5/iso0.jpg"
+      ]
+    },
+    {
+      "u": "88540d79-607f-4f19-b5da-74587603ef95",
+      "s": 1393593489,
+      "z": 100,
+      "n": "CAPRA",
+      "v": "Ruckstuhl ",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/70/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Ruckstuhl ",
+          "u": "http://www.ruckstuhl.com/en/capra.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/88540d79-607f-4f19-b5da-74587603ef95/iso0.jpg"
+      ]
+    },
+    {
+      "u": "36fa1298-eff7-4cc8-82d2-6cbb254b1eb1",
+      "s": 1395926217,
+      "z": 100,
+      "n": "Bristol BRT-2909",
+      "v": "Surya",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/201/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Surya",
+          "u": "http://www.surya.com/rugs/bristol/brt2909/",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/36fa1298-eff7-4cc8-82d2-6cbb254b1eb1/iso0.jpg"
+      ]
+    },
+    {
+      "u": "c47b1be1-1bb7-4d7f-ab8e-5b33cf343b5a",
+      "s": 1389619763,
+      "z": 300,
+      "n": "Balloon Glass - Midnight Black",
+      "v": "Target",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/141/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Target",
+          "u": "http://www.target.com/p/balloon-glass-set-of-6-midnight-black/-/A-10532905#prodSlot=medium_2_27",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/c47b1be1-1bb7-4d7f-ab8e-5b33cf343b5a/iso0.jpg"
+      ]
+    },
+    {
+      "u": "51334e68-0a65-4117-829a-470aac79711a",
+      "s": 1385126982,
+      "z": 300,
+      "n": "Flat -  Elephant Throw",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/51334e68-0a65-4117-829a-470aac79711a/iso0.jpg"
+      ]
+    },
+    {
+      "u": "9023c3e6-7d5f-4b62-9476-3d309d3856b0",
+      "s": 1383570634,
+      "z": 300,
+      "n": "Fireplace flame",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/9023c3e6-7d5f-4b62-9476-3d309d3856b0/iso0.jpg"
+      ]
+    },
+    {
+      "u": "9eb36228-f5cd-4e65-a8ca-8baf179e572e",
+      "s": 1362324181,
+      "z": 300,
+      "n": "Coffee Accessories",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/9eb36228-f5cd-4e65-a8ca-8baf179e572e/iso.jpg"
+      ]
+    },
+    {
+      "u": "9f659d0c-ff9a-4c47-b0f4-f3dc6b3112f6",
+      "s": 1385126985,
+      "z": 300,
+      "n": "Flat -  Elephant Throw",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/9f659d0c-ff9a-4c47-b0f4-f3dc6b3112f6/iso0.jpg"
+      ]
+    },
+    {
+      "u": "23dcc9e4-2581-4093-9b39-e450424b6d3a",
+      "s": 1362555998,
+      "z": 300,
+      "n": "Open-Paged Magazine (Single) ",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/23dcc9e4-2581-4093-9b39-e450424b6d3a/iso.jpg"
+      ]
+    },
+    {
+      "u": "19db2c4c-d93c-4c97-adbf-84dc918080e6",
+      "s": 1391088623,
+      "z": 300,
+      "n": "Autodesk Vintage",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/19db2c4c-d93c-4c97-adbf-84dc918080e6/iso.jpg"
+      ]
+    },
+    {
+      "u": "4601315e-7571-4355-837b-4f360c01a992",
+      "s": 1377546161,
+      "z": 400,
+      "n": "IES",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/4601315e-7571-4355-837b-4f360c01a992/iso.jpg"
+      ]
+    },
+    {
+      "u": "577d04a1-c088-44b2-ac17-b53d83830f7c",
+      "s": 1362556411,
+      "z": 300,
+      "n": "Double Magazine Stack",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/577d04a1-c088-44b2-ac17-b53d83830f7c/iso.jpg"
+      ]
+    }
+  ],
+  "er": -1,
+  "erMessage": ""
+}
+

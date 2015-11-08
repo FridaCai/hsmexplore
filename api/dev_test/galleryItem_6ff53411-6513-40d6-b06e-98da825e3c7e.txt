@@ -1,0 +1,311 @@
+http://api.alpha.homestyler.com/hsmweb/api/gallery/getitem?dt=ios&itm=6ff53411-6513-40d6-b06e-98da825e3c7e&l=en&tp=1&v=1.3
+
+{
+  "id": "6ff53411-6513-40d6-b06e-98da825e3c7e",
+  "content": "{\"globalScale\":0.4120938,\"cameraXFOV\":70.00001,\"cameraYFOV\":55.41293,\"sceneName\":\"New Product - Black & White Armchairs\",\"localUniqueID\":\"33D7AE57-E517-45FB-A18A-56475C654FCF\",\"models\":[{\"scale\":1.509897,\"x\":0.03080793,\"productId\":\"d7dcc096-487a-4dd0-90ea-1847f0eefff8\",\"y\":-0.1,\"isLocked\":false,\"yRot\":-13.60797,\"z\":-4.958745},{\"scale\":1.071193,\"x\":0.5289842,\"productId\":\"4149181f-19a2-4c4e-8c3b-3e556a020e36\",\"y\":-0.02992188,\"isLocked\":false,\"yRot\":-0.4424155,\"z\":-5.468997},{\"scale\":2.34015,\"x\":-5.038713,\"productId\":\"55ccdf14-fd3b-4a62-a398-94a478c94dc4\",\"y\":-0.02949024,\"isLocked\":false,\"yRot\":1.243102,\"z\":-8.825174},{\"scale\":1.446231,\"x\":-0.4485168,\"productId\":\"e3b08331-55d3-4a23-bf0e-1805548ba28e\",\"y\":-0.02554983,\"isLocked\":false,\"yRot\":0.9117064,\"z\":-4.241139},{\"scale\":1.703472,\"x\":2.532509,\"productId\":\"ec77ed27-da8f-414d-8548-4d7aea1b6ef0\",\"y\":-0.01621724,\"isLocked\":false,\"yRot\":-1.125521,\"z\":-6.142013},{\"scale\":3.999731,\"x\":4.392433,\"productId\":\"40f987e6-d48b-49a5-8e8a-47a8c7f4f9d1\",\"y\":-0.01454705,\"isLocked\":false,\"yRot\":-1.957762,\"z\":-13.90067},{\"scale\":8.049747,\"x\":-11.22003,\"productId\":\"c356efad-f05b-4ad8-a3fb-62edb249f0c1\",\"y\":-0.009163561,\"isLocked\":false,\"yRot\":0.5360996,\"z\":-32.98609},{\"scale\":6.848116,\"x\":-1.48176,\"productId\":\"9dceaee6-c5b5-49d1-9b80-15b6b0fc09be\",\"y\":-0.007925815,\"isLocked\":false,\"yRot\":-0.5028125,\"z\":-38.76985},{\"scale\":2.604226,\"x\":3.919343,\"productId\":\"40165deb-44d0-4fe3-8985-ae88941ee491\",\"y\":-0.00555024,\"isLocked\":false,\"yRot\":-2.694824,\"z\":-7.200879},{\"scale\":2.136577,\"x\":7.326424,\"productId\":\"c6af574f-749f-4be2-934f-0d2e97b0c160\",\"y\":0,\"isLocked\":false,\"yRot\":-1.038032,\"z\":-12.80037},{\"scale\":1.006925,\"x\":0.4979316,\"productId\":\"aa254734-40df-4496-a649-c7d287ff925a\",\"y\":0.4016,\"isLocked\":false,\"yRot\":-2.024847,\"z\":-5.303992},{\"scale\":1.429999,\"x\":2.372967,\"productId\":\"cedf963c-a0ea-4899-9e6e-604bcbf259cd\",\"y\":0.4418702,\"isLocked\":false,\"yRot\":-0.2332103,\"z\":-6.143676},{\"scale\":1.65818,\"x\":2.678381,\"productId\":\"96cdfb32-fc1d-4040-96d8-8e720f8b31d1\",\"y\":0.44975,\"isLocked\":false,\"yRot\":-0.532764,\"z\":-6.219723},{\"scale\":6.598361,\"x\":-7.737575,\"productId\":\"57f86efc-56f9-4ff8-86da-63d837e5fadf\",\"y\":2.196871,\"isLocked\":false,\"yRot\":-12.04372,\"z\":-34.23816},{\"scale\":2.476971,\"x\":5.091245,\"productId\":\"a476a47c-b39a-4601-a558-eed0d5509771\",\"y\":3.863393,\"isLocked\":false,\"yRot\":-1.038032,\"z\":-16.59114}],\"timeStamp\":\"19\\/08\\/2013 17:45\",\"version\":\"1.1\",\"matrix\":[-0.002583222,-0.9999971,8.091613e-05,0,0.9997253,-0.002584047,-0.02331701,0,0.02331697,2.077804e-05,0.9997278,0,0,0,0,1],\"imageSize\":{\"Height\":768,\"Width\":1024},\"cube\":[{\"x\":-8.32934,\"y\":8.730803,\"z\":-11.06145},{\"x\":4.048384,\"y\":8.730803,\"z\":-18.3598},{\"x\":4.048384,\"y\":-0.105073,\"z\":-18.3598},{\"x\":-8.32934,\"y\":-0.105073,\"z\":-11.06145}],\"orientation\":0}",
+  "title": "New Product - Black & White Armchairs",
+  "images": [
+    "http://hsm-designs.S3.amazonaws.com/5Folo42LDC/i.jpg",
+    "http://hsm-designs.S3.amazonaws.com/5Folo42LDC/b.jpg",
+    "http://hsm-designs.S3.amazonaws.com/5Folo42LDC/f.jpg"
+  ],
+  "mask": "",
+  "d": "New Product - Black & White Armchairs",
+  "pro": false,
+  "uid": "MCHNEEWHDMT5YLH",
+  "uthumb": "http://hsm-prod-designs.S3.amazonaws.com/users/8e295808-0fd8-4f7b-b3a5-23d92ffcf699.jpg",
+  "uname": "Mor Ratzin",
+  "lk": 62,
+  "cmt": 49,
+  "pcnt": 15,
+  "rt": 16,
+  "items": [
+    {
+      "u": "4149181f-19a2-4c4e-8c3b-3e556a020e36",
+      "s": 1367915716,
+      "z": 200,
+      "n": "NIX",
+      "v": "B&B Italia",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/25/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=4149181f-19a2-4c4e-8c3b-3e556a020e36&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct-nix-low_tables_50_en.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/4149181f-19a2-4c4e-8c3b-3e556a020e36/iso.jpg"
+      ]
+    },
+    {
+      "u": "ec77ed27-da8f-414d-8548-4d7aea1b6ef0",
+      "s": 1367915724,
+      "z": 200,
+      "n": "FAT FAT",
+      "v": "B&B Italia",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/25/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=ec77ed27-da8f-414d-8548-4d7aea1b6ef0&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct-fat_fat-low_tables_85_en.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/ec77ed27-da8f-414d-8548-4d7aea1b6ef0/iso.jpg"
+      ]
+    },
+    {
+      "u": "40f987e6-d48b-49a5-8e8a-47a8c7f4f9d1",
+      "s": 1372777826,
+      "z": 200,
+      "n": "LOW PAD",
+      "v": "Cappellini",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/86/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Cappellini",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=40f987e6-d48b-49a5-8e8a-47a8c7f4f9d1&url=http%3a%2f%2fwww.cappellini.it%2fportal%2fpage%2fportal%2fnew%2fwebpages%2fcappellini%2fcatalogue%2fproduct%3fp%3dcode%3aCP_LW_%3bis_finder_result%3a1%26lang%3den",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/40f987e6-d48b-49a5-8e8a-47a8c7f4f9d1/iso.jpg"
+      ]
+    },
+    {
+      "u": "e3b08331-55d3-4a23-bf0e-1805548ba28e",
+      "s": 1366547497,
+      "z": 200,
+      "n": "CLIO",
+      "v": "Maxalto",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/52/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=e3b08331-55d3-4a23-bf0e-1805548ba28e&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct-clio-armchairs_221_en.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/e3b08331-55d3-4a23-bf0e-1805548ba28e/iso.jpg"
+      ]
+    },
+    {
+      "u": "40165deb-44d0-4fe3-8985-ae88941ee491",
+      "s": 1373183928,
+      "z": 200,
+      "n": "DELAUNAY",
+      "v": "Minotti",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/37/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Minotti",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=40165deb-44d0-4fe3-8985-ae88941ee491&url=http%3a%2f%2fwww.minotti.com%2f%23%2farmchairs%2fdelaunay_en_0_2_126.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/40165deb-44d0-4fe3-8985-ae88941ee491/iso.jpg"
+      ]
+    },
+    {
+      "u": "55ccdf14-fd3b-4a62-a398-94a478c94dc4",
+      "s": 1373572169,
+      "z": 200,
+      "n": "Hopper",
+      "v": "Minotti",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/37/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Minotti",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=55ccdf14-fd3b-4a62-a398-94a478c94dc4&url=http%3a%2f%2fwww.minotti.com%2f%23%2farmchairs%2fhopper_en_0_2_533.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/55ccdf14-fd3b-4a62-a398-94a478c94dc4/iso.jpg"
+      ]
+    },
+    {
+      "u": "d7dcc096-487a-4dd0-90ea-1847f0eefff8",
+      "s": 1375731384,
+      "z": 100,
+      "n": "TUNE",
+      "v": "Paola Lenti",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/92/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Paola Lenti",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=d7dcc096-487a-4dd0-90ea-1847f0eefff8&url=http%3a%2f%2fwww.paolalenti.it%2fprodotto%2fshow%2ftune%2f",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/d7dcc096-487a-4dd0-90ea-1847f0eefff8/iso.jpg"
+      ]
+    },
+    {
+      "u": "96cdfb32-fc1d-4040-96d8-8e720f8b31d1",
+      "s": 1371373204,
+      "z": 300,
+      "n": "CHINESE PORCELAIN CUP & SAUCER, SET OF 4",
+      "v": "Restoration Hardware",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/41/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Restoration Hardware",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=96cdfb32-fc1d-4040-96d8-8e720f8b31d1&url=http%3a%2f%2fwww.restorationhardware.com%2fcatalog%2fproduct%2fproduct.jsp%3fproductId%3dprod2510953%26categoryId%3dcat2280008",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/96cdfb32-fc1d-4040-96d8-8e720f8b31d1/iso.jpg"
+      ]
+    },
+    {
+      "u": "cedf963c-a0ea-4899-9e6e-604bcbf259cd",
+      "s": 1371373386,
+      "z": 300,
+      "n": "STONEWARE LARGE PITCHER",
+      "v": "Restoration Hardware",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/41/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Restoration Hardware",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=cedf963c-a0ea-4899-9e6e-604bcbf259cd&url=http%3a%2f%2fwww.restorationhardware.com%2fcatalog%2fproduct%2fproduct.jsp%3fproductId%3dprod2481133%26categoryId%3dcat2280008",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/cedf963c-a0ea-4899-9e6e-604bcbf259cd/iso.jpg"
+      ]
+    },
+    {
+      "u": "9dceaee6-c5b5-49d1-9b80-15b6b0fc09be",
+      "s": 1369128232,
+      "z": 200,
+      "n": "Dixon Transitional Slippe",
+      "v": "Stein World",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/68/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Stein World",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=9dceaee6-c5b5-49d1-9b80-15b6b0fc09be&url=http%3a%2f%2fwww.steinworld.com%2fStein-World-Dixon-Transitional-Slippe%2f12472-731%2fItemInformation.aspx",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/9dceaee6-c5b5-49d1-9b80-15b6b0fc09be/iso.jpg"
+      ]
+    },
+    {
+      "u": "c356efad-f05b-4ad8-a3fb-62edb249f0c1",
+      "s": 1376337337,
+      "z": 200,
+      "n": "Brix",
+      "v": "Viccarbe",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/78/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Viccarbe",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=c356efad-f05b-4ad8-a3fb-62edb249f0c1&url=http%3a%2f%2fwww.viccarbe.com%2fproduct.php%3fid%3d35516688a565c62",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/c356efad-f05b-4ad8-a3fb-62edb249f0c1/iso.jpg"
+      ]
+    },
+    {
+      "u": "57f86efc-56f9-4ff8-86da-63d837e5fadf",
+      "s": 1372170237,
+      "z": 300,
+      "n": "Books VI",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/57f86efc-56f9-4ff8-86da-63d837e5fadf/iso.jpg"
+      ]
+    },
+    {
+      "u": "a476a47c-b39a-4601-a558-eed0d5509771",
+      "s": 1374662410,
+      "z": 400,
+      "n": "Colonial Hung Window with Eyebrow 3'0x4'6",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/a476a47c-b39a-4601-a558-eed0d5509771/iso.jpg"
+      ]
+    },
+    {
+      "u": "aa254734-40df-4496-a649-c7d287ff925a",
+      "s": 1370430663,
+      "z": 300,
+      "n": "Two-Stack Coffee Table Books",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/aa254734-40df-4496-a649-c7d287ff925a/iso.jpg"
+      ]
+    },
+    {
+      "u": "c6af574f-749f-4be2-934f-0d2e97b0c160",
+      "s": 1375785640,
+      "z": 100,
+      "n": "French Patio Double Door/Window",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/c6af574f-749f-4be2-934f-0d2e97b0c160/iso.jpg"
+      ]
+    }
+  ],
+  "er": -1,
+  "erMessage": ""
+}

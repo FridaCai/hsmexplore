@@ -1,0 +1,206 @@
+http://api.alpha.homestyler.com/hsmweb/api/gallery/getitem?dt=ios&itm=0e82bcd7-83ce-49b3-9187-6970a0c57814&l=en&tp=1&v=1.3
+
+{
+  "id": "0e82bcd7-83ce-49b3-9187-6970a0c57814",
+  "content": "{\"o\":\"a693d79c-6045-4038-a781-a9d2f6f9e2ab\",\"cameraXFOV\":34,\"camera_rotation_aligned\":false,\"cameraYFOV\":25.82912,\"sceneName\":\"my design z\",\"scaleLock\":true,\"cube\":[{\"x\":-3.29684,\"y\":6.637412,\"z\":-29.88035},{\"x\":7.654479,\"y\":6.637412,\"z\":-29.84069},{\"x\":7.654479,\"y\":-0.7245305,\"z\":-29.84069},{\"x\":-3.29684,\"y\":-0.7245305,\"z\":-29.88035}],\"localUniqueID\":\"76DDF910-9A8A-4620-AFAE-DDCCCB81A6B0\",\"version\":\"1\",\"models\":[{\"scale\":2.845016,\"x\":2.576295,\"productId\":\"ce2f7b41-5acf-4fa3-b91a-22c3cf7d8534\",\"y\":-0.009585381,\"isLocked\":false,\"yRot\":-12.60043,\"z\":-28.79169},{\"scale\":2.802715,\"x\":5.483017,\"productId\":\"b07ea899-d842-4c75-a96c-25b263b25bca\",\"y\":-0.001336455,\"isLocked\":false,\"yRot\":-12.57351,\"z\":-28.72986},{\"scale\":2.189642,\"x\":1.242409,\"productId\":\"830f4986-1ec1-4c6e-ab1b-13e4b97d4060\",\"y\":1.064408,\"isLocked\":false,\"yRot\":1.777178,\"z\":-28.62578},{\"scale\":2.937074,\"x\":-0.4387485,\"productId\":\"217c13cd-f4d7-46b1-a70b-2f43c98f93f9\",\"y\":-0.001671076,\"isLocked\":false,\"yRot\":-0.02716886,\"z\":-28.61736},{\"scale\":2.064566,\"x\":5.581564,\"productId\":\"830f4986-1ec1-4c6e-ab1b-13e4b97d4060\",\"y\":0.9841025,\"isLocked\":false,\"yRot\":0.9514366,\"z\":-27.32679},{\"scale\":1.83402,\"x\":7.644859,\"productId\":\"996a6ff9-7cae-447e-b0a4-fa5005128849\",\"y\":2.116197,\"isLocked\":false,\"yRot\":-1.574418,\"z\":-27.18459},{\"scale\":1.911994,\"x\":7.644778,\"productId\":\"21faf1db-c559-42be-9e30-8821b2a81698\",\"y\":4.238665,\"isLocked\":false,\"yRot\":-1.574418,\"z\":-27.16229},{\"scale\":2.693602,\"x\":5.35681,\"productId\":\"ce2f7b41-5acf-4fa3-b91a-22c3cf7d8534\",\"y\":-0.0171693,\"isLocked\":false,\"yRot\":-1.603022,\"z\":-25.46607},{\"scale\":2.522068,\"x\":-5.285467,\"productId\":\"6d520909-aaa3-491b-9046-42bd8c0407be\",\"y\":0,\"isLocked\":false,\"yRot\":0.003621193,\"z\":-24.38466},{\"scale\":5.529029,\"x\":1.263027,\"productId\":\"73fa3def-0741-4d3c-9019-3f608ab916e8\",\"y\":-0.1,\"isLocked\":false,\"yRot\":0.003621193,\"z\":-23.28193},{\"scale\":2.178282,\"x\":-2.103426,\"productId\":\"27c6f5c9-cbee-41b3-9605-8af0a94c70f2\",\"y\":0,\"isLocked\":false,\"yRot\":0.003621193,\"z\":-22.97145},{\"scale\":3.063702,\"x\":-6.260654,\"productId\":\"6d520909-aaa3-491b-9046-42bd8c0407be\",\"y\":0.113766,\"isLocked\":false,\"yRot\":0.2891993,\"z\":-21.68538},{\"scale\":2.178282,\"x\":-3.548079,\"productId\":\"3f80b90e-30b2-497b-b1d9-58632ef29322\",\"y\":-0.01677871,\"isLocked\":false,\"yRot\":-0.8262599,\"z\":-19.14449},{\"scale\":1.009489,\"x\":0.7105284,\"productId\":\"12b85d99-f1d1-47ba-a3a0-1a25af356ffe\",\"y\":-0.1,\"isLocked\":false,\"yRot\":0.003621193,\"z\":-17.3276}],\"timeStamp\":\"24\\/06\\/2014 04:24\",\"matrix\":[-0.003031783,-0.9999956,1.266599e-07,0,0.999891,-0.003031044,-0.014418,0,0.01441793,-4.287809e-05,0.9998965,0,0,0,0,1],\"imageSize\":{\"Height\":768,\"Width\":1024},\"globalScale\":0.9906,\"orientation\":0}",
+  "title": "my design z",
+  "images": [
+    "http://hsm-designs.S3.amazonaws.com/SGtgv20Lf8/i_E5sKdz5A8kKlayVbzIx1mw.jpg",
+    "http://hsm-designs.S3.amazonaws.com/SGtgv20Lf8/b_QfkKLHRRSkqgw37AAP4Iwg.jpg",
+    "http://hsm-designs.S3.amazonaws.com/SGtgv20Lf8/f_oQpUJtKGQ0as8IiY1Tgsiw.jpg"
+  ],
+  "mask": "",
+  "d": "Desc",
+  "pro": false,
+  "uid": "M35A2RKHWK8G9Z9",
+  "uthumb": null,
+  "uname": "zewser2 ",
+  "lk": 3,
+  "cmt": 1,
+  "pcnt": 11,
+  "rt": 4,
+  "items": [
+    {
+      "u": "12b85d99-f1d1-47ba-a3a0-1a25af356ffe",
+      "s": 1395230196,
+      "z": 100,
+      "n": "prodprod",
+      "v": "A.O. Smith",
+      "vu": "https://d3t5p29y393euf.cloudfront.net/vendorlogos/1/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Belgard",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=12b85d99-f1d1-47ba-a3a0-1a25af356ffe&url=1",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_ISNNkejX6UOCWDDwS6umYA.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_uLdNw3-0QE-64ic6iP4wvQ.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_IuURR_qHJ0yphvNLw7-7kw.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_47s15k5KakmApdg9w6WaXg.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_Q3NqzuU2KEuvuVo4hAPvMQ.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_V_CdJ5QNPE2Lz4F1E503eA.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_2Gw-HWGlfkyfX0DPeIro_Q.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_ppvAExqSZ0eaRgBgVxmgpQ.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_6v6b1t8BjUG4Rp1HoJz82g.jpg",
+        "http://hsm-dev-assets.S3.amazonaws.com/iso/12b85d99-f1d1-47ba-a3a0-1a25af356ffe/iso_BOy610iXRUer9Q1UTcaBjA.jpg"
+      ]
+    },
+    {
+      "u": "3f80b90e-30b2-497b-b1d9-58632ef29322",
+      "s": 1381833852,
+      "z": 200,
+      "n": "Tufty-Time",
+      "v": "B&B Italia",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/25/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=3f80b90e-30b2-497b-b1d9-58632ef29322&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct.aspx%3flang%3den%26productId%3d110",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/3f80b90e-30b2-497b-b1d9-58632ef29322/iso.jpg"
+      ]
+    },
+    {
+      "u": "b07ea899-d842-4c75-a96c-25b263b25bca",
+      "s": 1381833852,
+      "z": 200,
+      "n": "Tufty-Time",
+      "v": "B&B Italia",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/25/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=b07ea899-d842-4c75-a96c-25b263b25bca&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct-tufty-time-sofas_110_en.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/b07ea899-d842-4c75-a96c-25b263b25bca/iso.jpg"
+      ]
+    },
+    {
+      "u": "ce2f7b41-5acf-4fa3-b91a-22c3cf7d8534",
+      "s": 1381833851,
+      "z": 200,
+      "n": "Tufty-Time",
+      "v": "B&B Italia",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/25/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "B&B Italia",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=ce2f7b41-5acf-4fa3-b91a-22c3cf7d8534&url=http%3a%2f%2fwww.bebitalia.it%2fProducts%2fProduct.aspx%3flang%3den%26productId%3d110",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/ce2f7b41-5acf-4fa3-b91a-22c3cf7d8534/iso.jpg"
+      ]
+    },
+    {
+      "u": "830f4986-1ec1-4c6e-ab1b-13e4b97d4060",
+      "s": 1362665698,
+      "z": 300,
+      "n": "Galbraith & Paul Ring 18sq Black Pillow",
+      "v": "Room&Board",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/30/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Room & Board",
+          "u": "http://www.alpha.homestyler.com/brands/redirector?guid=830f4986-1ec1-4c6e-ab1b-13e4b97d4060&url=http%3a%2f%2fwww.roomandboard.com%2frnb%2fproduct%2fdetail.do%3fproductGroup%3d23909",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/830f4986-1ec1-4c6e-ab1b-13e4b97d4060/iso.jpg"
+      ]
+    },
+    {
+      "u": "21faf1db-c559-42be-9e30-8821b2a81698",
+      "s": 1362659653,
+      "z": 400,
+      "n": "White Matrix on Black (Framed)",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/21faf1db-c559-42be-9e30-8821b2a81698/iso.jpg"
+      ]
+    },
+    {
+      "u": "27c6f5c9-cbee-41b3-9605-8af0a94c70f2",
+      "s": 1370792480,
+      "z": 300,
+      "n": "Yellow Variegated Arboricola Column",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/27c6f5c9-cbee-41b3-9605-8af0a94c70f2/iso.jpg"
+      ]
+    },
+    {
+      "u": "6d520909-aaa3-491b-9046-42bd8c0407be",
+      "s": 1362670761,
+      "z": 200,
+      "n": "Garlic Clove Sculpture",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/6d520909-aaa3-491b-9046-42bd8c0407be/iso.jpg"
+      ]
+    },
+    {
+      "u": "996a6ff9-7cae-447e-b0a4-fa5005128849",
+      "s": 1362658635,
+      "z": 400,
+      "n": "Winter Wonderland II (Framed)",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://s3.amazonaws.com/hsm-prod-assets/i/996a6ff9-7cae-447e-b0a4-fa5005128849/iso.jpg"
+      ]
+    }
+  ],
+  "er": -1,
+  "erMessage": ""
+}

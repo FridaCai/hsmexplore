@@ -1,0 +1,388 @@
+http://api.homestyler.com/hsmweb/api/gallery/getitem?dt=ios&itm=5f2638dc-d19f-4491-87ac-a179c6469dff&l=en&tp=1&v=1.3
+
+{
+  "id": "5f2638dc-d19f-4491-87ac-a179c6469dff",
+  "content": "{\"cube\":[{\"x\":-4.481863,\"y\":3.382086,\"z\":-5.059525},{\"x\":0.5483594,\"y\":3.382086,\"z\":-7.862563},{\"x\":0.5483594,\"y\":0,\"z\":-7.862563},{\"x\":-4.481863,\"y\":0,\"z\":-5.059525}],\"cameraXFOV\":53.01474,\"camera_rotation_aligned\":true,\"cameraYFOV\":31.33253,\"bgBrightness\":1,\"scaleLock\":false,\"sceneName\":\"Loft \",\"localUniqueID\":\"9454E000-DDAF-4B57-8312-BC8D4AAFE8D2\",\"version\":\"1.2\",\"models\":[{\"scale\":1.77026,\"x\":2.039793,\"productId\":\"d32b8e3a-95ed-4312-9f7f-c459594400cb\",\"y\":0.05972742,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-17.93763,\"brightness\":0.5},{\"scale\":2.185093,\"x\":2.195569,\"productId\":\"7e52500b-3f9d-4751-9789-1125bfbd1389\",\"y\":0,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-11.82688,\"brightness\":1},{\"scale\":1.553375,\"x\":2.53533,\"productId\":\"554a057a-8034-4761-af6e-8fdca02a3d60\",\"y\":0,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-11.40997,\"brightness\":1},{\"scale\":0.6945283,\"x\":-2.323352,\"productId\":\"c4dffb4e-b6f4-4459-8ea0-b0b6d2ef2d91\",\"y\":2.681659,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-10.28168,\"brightness\":1},{\"scale\":1.746916,\"x\":2.767095,\"productId\":\"40356805-bf79-43a7-8f58-2ca0e225d7af\",\"y\":-0.1,\"isLocked\":false,\"yRot\":-1.175713,\"z\":-9.364024,\"brightness\":0.5},{\"scale\":1.381043,\"x\":2.757905,\"productId\":\"81df415e-ced6-4b4c-a2d0-6b0179ff5ab3\",\"y\":0,\"isLocked\":false,\"yRot\":-1.225817,\"z\":-8.882705,\"brightness\":0.5486726},{\"scale\":1.000619,\"x\":0.4844879,\"productId\":\"dfbf6c27-6c6d-44d6-8dce-c16c43360107\",\"y\":0.7447934,\"isLocked\":false,\"yRot\":-0.2744526,\"z\":-7.576747,\"brightness\":0.5},{\"scale\":1.365732,\"x\":0.3233082,\"productId\":\"b0ea2c48-5e40-4429-b56c-b24436902c75\",\"y\":0,\"isLocked\":false,\"yRot\":0.5276954,\"z\":-7.531627,\"brightness\":1},{\"scale\":1.000619,\"x\":0.96416,\"productId\":\"f3be416f-e502-4323-82fb-5432da312253\",\"y\":2.448914,\"isLocked\":false,\"yRot\":0.5750337,\"z\":-7.116385,\"brightness\":1},{\"scale\":1.000619,\"x\":1.743845,\"productId\":\"94eb25f4-d8a2-4373-8742-4cbc04d908c5\",\"y\":2.815749,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-6.803403,\"brightness\":1},{\"scale\":1.425202,\"x\":-2.065404,\"productId\":\"1ca672c7-f9bc-46b6-be2b-f3ffe94f8c29\",\"y\":1.184689,\"isLocked\":false,\"yRot\":0.5083843,\"z\":-6.406072,\"brightness\":0.5},{\"scale\":1.559886,\"x\":-2.070088,\"productId\":\"8bd96ed8-c717-4263-b92f-3798d338247d\",\"y\":2.189951,\"isLocked\":false,\"yRot\":0.5083843,\"z\":-6.403458,\"brightness\":0.5530974},{\"scale\":0.8174872,\"x\":-2.088893,\"productId\":\"ffc1e90a-b4c6-4624-91d5-2edf0bec54ae\",\"y\":2.993454,\"isLocked\":false,\"yRot\":0.5083843,\"z\":-6.392982,\"brightness\":0.5},{\"scale\":0.6414176,\"x\":1.512302,\"productId\":\"a744a194-0db2-410a-bfd2-b553b9a41881\",\"y\":2.120804,\"isLocked\":false,\"yRot\":-1.062412,\"z\":-6.13271,\"brightness\":1},{\"scale\":0.4302822,\"x\":1.406799,\"productId\":\"2c3add5d-51f2-4977-be6b-65601f7b6d5c\",\"y\":2.136731,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-5.975019,\"brightness\":1},{\"scale\":0.946993,\"x\":1.785744,\"productId\":\"c1ad0bda-4a48-4b16-8786-f3b80da768e3\",\"y\":1.888891,\"isLocked\":false,\"yRot\":-1.156469,\"z\":-5.642002,\"brightness\":0.5},{\"scale\":0.7256032,\"x\":1.457777,\"productId\":\"4935981a-f0db-479a-9324-80eb8bf519b7\",\"y\":1.433124,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-5.39564,\"brightness\":1},{\"scale\":0.6356395,\"x\":1.985438,\"productId\":\"a1e36b95-5d43-48fa-a671-5a821b1510c5\",\"y\":2.416373,\"isLocked\":false,\"yRot\":-1.001324,\"z\":-5.283637,\"brightness\":0.5},{\"scale\":1.000619,\"x\":1.724979,\"productId\":\"7942ad7e-42da-4eb1-a0a0-3800ddff89d9\",\"y\":1.40738,\"isLocked\":false,\"yRot\":-0.5083842,\"z\":-4.849484,\"brightness\":1}],\"timeStamp\":\"08\\/01\\/2015 14:06\",\"matrix\":[0.004856038,0.876869,0.480705,0,0.99929,0.01370896,-0.035101,0,-0.03736898,0.480534,-0.8761799,0,0,0,0,1],\"imageSize\":{\"Height\":388,\"Width\":690},\"globalScale\":0.9993814,\"orientation\":0}",
+  "title": "Loft ",
+  "images": [
+    "http://hsm-prod-designs.S3.amazonaws.com/cpX6uRcUa7/i_5Er8ydq8tEa0U7LHoyS6DA.jpg",
+    "http://hsm-prod-designs.S3.amazonaws.com/cpX6uRcUa7/b_-hs7yvO0gkClQb3tCEECKw.jpg",
+    "http://hsm-prod-designs.S3.amazonaws.com/cpX6uRcUa7/f_tzgUVDX0fk6Tt6ixx8Ukmw.jpg"
+  ],
+  "mask": "",
+  "d": "",
+  "pro": false,
+  "uid": "M6PTX5EI2YY4IYA",
+  "uthumb": null,
+  "uname": "mi be",
+  "lk": 173,
+  "cmt": 16,
+  "pcnt": 19,
+  "rt": 8,
+  "items": [
+    {
+      "u": "a1e36b95-5d43-48fa-a671-5a821b1510c5",
+      "s": 1410079322,
+      "z": 400,
+      "n": "AN AUTUMN SONG",
+      "v": "Art.com",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/208/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Art.com",
+          "u": "http://www.homestyler.com/brands/redirector?guid=a1e36b95-5d43-48fa-a671-5a821b1510c5&url=http%3a%2f%2fwww.art.com%2fdiscover%2fkeyword--ursula-abresch-an-autumn-song%2fposters.htm%3fsearchstring%3dursula-abresch-an-autumn-song%26SSK%3dursula-abresch-an-autumn-song%26WT.oss%3dursula-abresch-an-autumn-song%23!%2fm%3ddiscover%26r%3d_%26k%3dursula-abresch-an-autumn-song%26c%3d_",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/a1e36b95-5d43-48fa-a671-5a821b1510c5/iso0.jpg"
+      ]
+    },
+    {
+      "u": "b0ea2c48-5e40-4429-b56c-b24436902c75",
+      "s": 1389212778,
+      "z": 200,
+      "n": "Gossip Comfortable armchair CS/1110",
+      "v": "Calligaris ",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/109/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Calligaris ",
+          "u": "http://www.homestyler.com/brands/redirector?guid=b0ea2c48-5e40-4429-b56c-b24436902c75&url=http%3a%2f%2fwww.calligaris.biz%2fcatalogue%2fdining%2fchairs%2fGOSSIP%2fCS-1110",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/b0ea2c48-5e40-4429-b56c-b24436902c75/iso.jpg"
+      ]
+    },
+    {
+      "u": "7942ad7e-42da-4eb1-a0a0-3800ddff89d9",
+      "s": 1386101893,
+      "z": 300,
+      "n": "irwin table lamp",
+      "v": "Circa Lighting",
+      "vu": "https://d3t5p29y393euf.cloudfront.net/vendorlogos/5/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Circa Lighting",
+          "u": "http://www.homestyler.com/brands/redirector?guid=7942ad7e-42da-4eb1-a0a0-3800ddff89d9&url=http%3a%2f%2fwww.circalighting.com%2fdetails.aspx%3fpid%3d3572",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/7942ad7e-42da-4eb1-a0a0-3800ddff89d9/iso0.jpg"
+      ]
+    },
+    {
+      "u": "2c3add5d-51f2-4977-be6b-65601f7b6d5c",
+      "s": 1405256957,
+      "z": 300,
+      "n": "TWILIGHT HURRICANE SMALL",
+      "v": "DwellStudio",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/45/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "DwellStudio",
+          "u": "http://www.homestyler.com/brands/redirector?guid=2c3add5d-51f2-4977-be6b-65601f7b6d5c&url=http%3a%2f%2fwww.dwellstudio.com%2fDwellStudio-TWILIGHT-HURRICANE-D6.60248-49-DWL4397.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/2c3add5d-51f2-4977-be6b-65601f7b6d5c/iso.jpg"
+      ]
+    },
+    {
+      "u": "81df415e-ced6-4b4c-a2d0-6b0179ff5ab3",
+      "s": 1396617434,
+      "z": 200,
+      "n": "Studio sideboard, 168 cm wide ",
+      "v": "Grange",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/190/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Grange",
+          "u": "http://www.homestyler.com/brands/redirector?guid=81df415e-ced6-4b4c-a2d0-6b0179ff5ab3&url=http%3a%2f%2fwww.grange.fr%2fgrange%2feasysite%2fgrange%2fgb%2fcollections%2fcollections",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/81df415e-ced6-4b4c-a2d0-6b0179ff5ab3/iso0.jpg"
+      ]
+    },
+    {
+      "u": "1ca672c7-f9bc-46b6-be2b-f3ffe94f8c29",
+      "s": 1392236964,
+      "z": 400,
+      "n": "Set of Six Gallery Prints",
+      "v": "Horchow",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/103/Horchow.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Horchow",
+          "u": "http://www.homestyler.com/brands/redirector?guid=1ca672c7-f9bc-46b6-be2b-f3ffe94f8c29&url=http%3a%2f%2fwww.horchow.com%2fSet-of-Six-Gallery-Prints%2fcprod82070010%2fp.prod%3feVar4%3dYou%2520May%2520Also%2520Like",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/1ca672c7-f9bc-46b6-be2b-f3ffe94f8c29/iso0.jpg"
+      ]
+    },
+    {
+      "u": "8bd96ed8-c717-4263-b92f-3798d338247d",
+      "s": 1392236964,
+      "z": 400,
+      "n": "Set of Six Gallery Prints",
+      "v": "Horchow",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/103/Horchow.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Horchow",
+          "u": "http://www.homestyler.com/brands/redirector?guid=8bd96ed8-c717-4263-b92f-3798d338247d&url=http%3a%2f%2fwww.horchow.com%2fSet-of-Six-Gallery-Prints%2fcprod82070010%2fp.prod%3feVar4%3dYou%2520May%2520Also%2520Like",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/8bd96ed8-c717-4263-b92f-3798d338247d/iso0.jpg"
+      ]
+    },
+    {
+      "u": "dfbf6c27-6c6d-44d6-8dce-c16c43360107",
+      "s": 1371963685,
+      "z": 300,
+      "n": "cotton half circle pillow blue and grey",
+      "v": "JONATHAN ADLER",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/44/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "JONATHAN ADLER",
+          "u": "http://www.homestyler.com/brands/redirector?guid=dfbf6c27-6c6d-44d6-8dce-c16c43360107&url=http%3a%2f%2fwww.jonathanadler.com%2fcotton-half-circle-pillow-blue-and-grey%2f%3fcat%3d564",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/dfbf6c27-6c6d-44d6-8dce-c16c43360107/iso.jpg"
+      ]
+    },
+    {
+      "u": "a744a194-0db2-410a-bfd2-b553b9a41881",
+      "s": 1384719046,
+      "z": 400,
+      "n": "MI16",
+      "v": "Moretti Compact",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/49/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Moretti Compact",
+          "u": "http://www.homestyler.com/brands/redirector?guid=a744a194-0db2-410a-bfd2-b553b9a41881&url=http%3a%2f%2fwww.moretticompact.com%2fyoung.htm",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/a744a194-0db2-410a-bfd2-b553b9a41881/iso.jpg"
+      ]
+    },
+    {
+      "u": "d32b8e3a-95ed-4312-9f7f-c459594400cb",
+      "s": 1386940111,
+      "z": 200,
+      "n": "Flamingo",
+      "v": "porada",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/136/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "porada",
+          "u": "http://www.homestyler.com/brands/redirector?guid=d32b8e3a-95ed-4312-9f7f-c459594400cb&url=http%3a%2f%2fwww.porada.it%2fen%2fclothes-stands%2fflamingo_en_0_1_162.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/d32b8e3a-95ed-4312-9f7f-c459594400cb/iso0.jpg"
+      ]
+    },
+    {
+      "u": "c1ad0bda-4a48-4b16-8786-f3b80da768e3",
+      "s": 1389272746,
+      "z": 400,
+      "n": "New York",
+      "v": "porada",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/136/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "porada",
+          "u": "http://www.homestyler.com/brands/redirector?guid=c1ad0bda-4a48-4b16-8786-f3b80da768e3&url=http%3a%2f%2fwww.porada.it%2fen%2fmirrors%2fnew-york_en_0_1_395.html",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/c1ad0bda-4a48-4b16-8786-f3b80da768e3/iso0.jpg",
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/c1ad0bda-4a48-4b16-8786-f3b80da768e3/iso1.jpg"
+      ]
+    },
+    {
+      "u": "ffc1e90a-b4c6-4624-91d5-2edf0bec54ae",
+      "s": 1408262110,
+      "z": 400,
+      "n": "CHATEAU-THIERRY CLOCK",
+      "v": "Restoration Hardware",
+      "vu": "http://hsm-prod-assets.S3.amazonaws.com/vendorlogos/41/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Restoration Hardware",
+          "u": "http://www.homestyler.com/brands/redirector?guid=ffc1e90a-b4c6-4624-91d5-2edf0bec54ae&url=http%3a%2f%2fwww.restorationhardware.com%2fcatalog%2fproduct%2fproduct.jsp%3fproductId%3dprod1669006%26categoryId%3dcat1580086",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/ffc1e90a-b4c6-4624-91d5-2edf0bec54ae/iso1.jpg"
+      ]
+    },
+    {
+      "u": "40356805-bf79-43a7-8f58-2ca0e225d7af",
+      "s": 1396185284,
+      "z": 100,
+      "n": "Caspian CAS-9914",
+      "v": "Surya",
+      "vu": "http://hsm-prod-modellers-assets.S3.amazonaws.com/vendorlogos/201/logo.jpg",
+      "t": "",
+      "r": [
+        {
+          "n": "Surya",
+          "u": "http://www.homestyler.com/brands/redirector?guid=40356805-bf79-43a7-8f58-2ca0e225d7af&url=http%3a%2f%2fwww.surya.com%2frugs%2fcaspian%2fcas9914%2f",
+          "p": "0"
+        }
+      ],
+      "images": [
+        "http://hsm-prod-assets.S3.amazonaws.com/iso/40356805-bf79-43a7-8f58-2ca0e225d7af/iso0.jpg"
+      ]
+    },
+    {
+      "u": "7e52500b-3f9d-4751-9789-1125bfbd1389",
+      "s": 1370958218,
+      "z": 300,
+      "n": "Green Variegated Arboricola Column",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/7e52500b-3f9d-4751-9789-1125bfbd1389/iso.jpg"
+      ]
+    },
+    {
+      "u": "554a057a-8034-4761-af6e-8fdca02a3d60",
+      "s": 1405256958,
+      "z": 300,
+      "n": "Aralia Fabian",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/iso/554a057a-8034-4761-af6e-8fdca02a3d60/iso.jpg"
+      ]
+    },
+    {
+      "u": "c4dffb4e-b6f4-4459-8ea0-b0b6d2ef2d91",
+      "s": 1370958293,
+      "z": 300,
+      "n": "Bird of Paradise",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/c4dffb4e-b6f4-4459-8ea0-b0b6d2ef2d91/iso.jpg"
+      ]
+    },
+    {
+      "u": "4935981a-f0db-479a-9324-80eb8bf519b7",
+      "s": 1362219990,
+      "z": 300,
+      "n": "Modern Ceramic Vase",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/4935981a-f0db-479a-9324-80eb8bf519b7/iso.jpg"
+      ]
+    },
+    {
+      "u": "f3be416f-e502-4323-82fb-5432da312253",
+      "s": 1377546160,
+      "z": 400,
+      "n": "IES",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/f3be416f-e502-4323-82fb-5432da312253/iso.jpg"
+      ]
+    },
+    {
+      "u": "94eb25f4-d8a2-4373-8742-4cbc04d908c5",
+      "s": 1376941523,
+      "z": 300,
+      "n": "Coffee Table Book Stack",
+      "v": "Generic",
+      "vu": "",
+      "t": "",
+      "r": [
+        {
+          "n": "Generic",
+          "u": null,
+          "p": "0"
+        }
+      ],
+      "images": [
+        "https://hsm-prod-assets.S3.amazonaws.com/i/94eb25f4-d8a2-4373-8742-4cbc04d908c5/iso.jpg"
+      ]
+    }
+  ],
+  "er": -1,
+  "erMessage": ""
+}
