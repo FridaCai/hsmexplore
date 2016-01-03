@@ -53,7 +53,9 @@ var controller = {
                         self.transformControls.attach( object );
                     }
                     self.animate();
-                } );
+                });
+
+                cubeView.init();
             }
         });
     },

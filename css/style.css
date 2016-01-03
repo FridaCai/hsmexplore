@@ -1,0 +1,14 @@
+body {
+    font-family: Monospace;
+    background-color: #f0f0f0;
+    margin: 0px;
+    overflow: hidden;
+}
+.cubeviewSwitchBtn{
+    padding:10px 0;
+    text-align:center;
+    background:#ccc;
+    cursor:pointer;
+    vertical-align:middle;
+    width: 720px;
+}
