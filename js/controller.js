@@ -26,7 +26,7 @@ var controller = {
     signals:null,
 
     init:function(){
-        this.sceneId = util.getParamByKey("id");
+        this.sceneId = util.getParamByKey("id") || '9707dc05-ecbc-4381-8ca8-e7a1e9ca1146';
         this.bg = "content/" + this.sceneId + "/screenshot.jpg";
         this.jsonUrl = "content/" + this.sceneId + "/design.txt";
 
